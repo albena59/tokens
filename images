@@ -1,1 +1,12 @@
-
+{
+    "name": "USMCOIN",
+    "website": "https://usmcoin.com",
+    "short_description": "Freedom in money freedom in world.",
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "https://etherscan.io/token/0x749AF48E78AB44c38fE25E50bd2a2FBbbc319195"
+        }
+    ],
+    "data_source": "crowd"
+}
